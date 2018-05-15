@@ -6,7 +6,12 @@
 https://www.104.com.tw/2018hackathon/
 
 ## 主題說明
-主辦單位將提供包含是非題、選擇題、填空題等 3 種題型，每種題型難易度不同，答對得分也不同，Chatbot需於規定時間內答題獲取積分，主辦單位將會依照參賽隊伍獲得的積分作為評分標準。
+主辦單位將提供包含是非題、選擇題、填空題等 3 種題型，每種題型難易度不同，答對得分也不同，參賽 Slack Chatbot 需於規定時間內答題獲取積分，主辦單位將會依照參賽隊伍獲得的積分作為評分標準。
+
+## 加入 104Hackathon Chatbot Slack Team 步驟說明
+* 主辦單位會發送 Slack 邀請函至參賽者報名 email，請參賽者收到邀請函後隨即加入 104Hackathon Chatbot Team
+* 主辦單位會幫所有報名隊伍建立 Chatbot，並將 Token 寄送至參賽者 email，請參賽者收到後妥善保管，切勿外流
+* Chatbot 會被自動加到測試頻道，主辦單位會不定時在測試頻道上貼出測試題供參賽 Chatbot 進行測試
 
 ## 資料集說明
 * 公司與職務資料
@@ -143,7 +148,7 @@ https://www.104.com.tw/2018hackathon/
 * 設計方法 30%（包含簡報內容、演算法設計、資料闡釋與分析等）
 * 分數計算方式
     - 三場積分賽：當天會針對是非題、選擇題、填空題個別舉辦積分賽，取總分前 5 名進入決賽
-    - 決賽：各隊積分 * 0.7 + 設計方法分數
+    - 決賽：各隊決賽所獲分數 * 0.7 + 設計方法分數
 
 ## 104開放資料授權條款 
 【2018-104-hackathon-dataset】是 2018年104資訊科技Hackathon活動中開放的資料集。當您使用104提供之【2018-104-hackathon-dataset】資料集時，即表示您已閱讀、瞭解並同意接受本授權條款所訂定之所有內容。本授權條款得隨時修訂並公告於本頁面上，修訂後之內容自公告時起生效，授權說明如下：
@@ -163,6 +168,6 @@ https://www.104.com.tw/2018hackathon/
 
 ## Reference:
 * https://github.com/slackapi/python-slackclient
-* [SlackBot 程式範例](https://github.com/104corp/2018-104Hackathon-Chatbot) (待補)
+* [SlackBot 程式範例](https://github.com/104corp/2018-104Hackathon-Chatbot) (擇日提供)
 
 附註: 主辦單位保留規則微調之權利
