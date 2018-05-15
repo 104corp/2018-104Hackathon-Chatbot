@@ -143,6 +143,18 @@ https://www.104.com.tw/2018hackathon/
 	- 針對勞基法相關，會提供題目出自哪個法律的第幾條
 	- 針對公司資訊，會提供出自哪間公司的哪個欄位
 
+### 題目範例
+* [是非題](sample-question/是非題.csv)
+* [選擇題](sample-question/選擇題.csv)
+* [填空題](sample-question/填空題.csv)
+* [決賽題](sample-question/決賽題.csv)
+
+### 影片範例
+* [是非題](sample-video/是非題.mp4)
+* [選擇題](sample-video/選擇題.mp4)
+* [填空題](sample-video/填空題.mp4)
+* [決賽題](sample-video/決賽題.mp4)
+
 ## 評分標準
 * 積分結果 70%
 * 設計方法 30%（包含簡報內容、演算法設計、資料闡釋與分析等）
