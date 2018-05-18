@@ -14,7 +14,7 @@ https://www.104.com.tw/2018hackathon/
 * Chatbot 會被自動加到測試頻道，主辦單位會不定時在測試頻道上貼出測試題供參賽 Chatbot 進行測試
 
 ## 資料集說明
-* 公司與職務資料
+* 公司資料
     + 企業基本資料
         - File: companies.json
         - Decription: 資料集中所使用的公司資料
