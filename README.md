@@ -8,10 +8,20 @@ https://www.104.com.tw/hackathon/2018/
 ## 主題說明
 主辦單位將提供包含是非題、選擇題、填空題等 3 種題型，每種題型難易度不同，答對得分也不同，參賽 Slack Chatbot 需於規定時間內答題獲取積分，主辦單位將會依照參賽隊伍獲得的積分作為評分標準。
 
-## 加入 104Hackathon Chatbot Slack Team 步驟說明
+## 聊天平台說明
+此次比賽將使用 Slack 聊天平台，每場賽事會有專屬 Channel，參賽 Chatbot 需於該 Channel 上接收與回答問題！
+
+### 加入 104Hackathon Chatbot Slack Team 步驟說明
 * 主辦單位會發送 Slack 邀請函至參賽者報名 email，請參賽者收到邀請函後隨即加入 104Hackathon Chatbot Team
 * 主辦單位會幫所有報名隊伍建立 Chatbot，並將 Token 寄送至參賽者 email，請參賽者收到後妥善保管，切勿外流
-* Chatbot 會被自動加到測試頻道，主辦單位會不定時在測試頻道上貼出測試題供參賽 Chatbot 進行測試
+* 各隊的 Chatbot 會被自動加到測試頻道，主辦單位會不定時在測試頻道上貼出測試題供參賽 Chatbot 進行測試
+
+### 範例
+主辦單位將會提供 SlackBot 程式範例，參賽者可參考範例撰寫比賽程式！
+* [SlackBot 程式範例](https://github.com/104corp/2018-104Hackathon-Chatbot) (擇日提供)
+
+### Reference:
+* https://github.com/slackapi/python-slackclient
 
 ## 資料集說明
 * 公司資料
@@ -177,9 +187,5 @@ https://www.104.com.tw/hackathon/2018/
     4. 使用者不得意圖或為任何可能損害104商譽或侵害104資料之任何行為或聲明。
     5. 謝絕競業使用，作任何商業營利或非商業研究分析之用。
     6. 本條款之解釋、效力、履行及其他未盡事宜，以中華民國法律為準據法。
-
-## Reference:
-* https://github.com/slackapi/python-slackclient
-* [SlackBot 程式範例](https://github.com/104corp/2018-104Hackathon-Chatbot) (擇日提供)
 
 附註: 主辦單位保留規則微調之權利
