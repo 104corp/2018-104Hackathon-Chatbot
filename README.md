@@ -18,7 +18,7 @@ https://www.104.com.tw/hackathon/2018/
 
 ### 範例
 主辦單位將會提供 SlackBot 程式範例，參賽者可參考範例撰寫比賽程式！
-* [SlackBot 程式範例](https://github.com/104corp/2018-104Hackathon-Chatbot) (擇日提供)
+* [SlackBot 程式範例](https://github.com/104corp/2018-104Hackathon-Chatbot/tree/master/sample-code)
 
 ### Reference:
 * https://github.com/slackapi/python-slackclient
