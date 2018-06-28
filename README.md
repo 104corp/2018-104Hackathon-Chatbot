@@ -26,12 +26,14 @@ https://www.104.com.tw/hackathon/2018/
 ## 資料集說明
 * 公司資料
     + 企業基本資料
-        - File: companies.json
+        - File: company.json
         - Decription: 資料集中所使用的公司資料
         - [Company Schema](data-schema/companies_schema.md)
         - [Company Sample](sample-data/companies_sample.json)
-        - 實際資料集將另行公佈
-* 勞基法相關法條資料
+        - [資料集下載連結](2018-104-hackathon-dataset.md)
+* 勞基法相關法條資料: 
+    + 此資料集出處為[全國法規資料庫](https://law.moj.gov.tw/Index.aspx)，使用前請先閱讀、瞭解並同意其[開放資料宣告](https://law.moj.gov.tw/Service/Copyright.aspx)。
+    + [下載連結](https://www.104.com.tw/hackathon/2018/dataset/labor-standards-act.html) 
 
 ## 規則說明與範例
 
